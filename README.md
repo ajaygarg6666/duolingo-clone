@@ -4,6 +4,15 @@ A functional clone of Duolingo’s web app: a winding skill path, a lesson playe
 
 Default learner is **Luna** (no login). Open the app and start the bouncing **Phrases** node.
 
+## Demo
+
+https://github.com/user-attachments/assets/demo.mp4
+
+> **Watch the Demo:** [assets/demo.mp4](assets/demo.mp4)
+
+<video src="assets/demo.mp4" controls="controls" width="100%"></video>
+
+
 ## Tech stack
 
 - **Frontend:** Next.js (App Router, TypeScript, Tailwind CSS, Nunito)
