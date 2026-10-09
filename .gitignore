@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.vercel/
+patch-sso.json
+out/
+dist/
+*.db
+*.db-journal
+__pycache__/
+.venv/
+venv/
+.env
+.env.local
+*.pyc
+.DS_Store
+frontend/next-env.d.ts
