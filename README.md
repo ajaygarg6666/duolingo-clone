@@ -13,6 +13,13 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4+-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
+<br/><br/>
+
+### 🚀 **[👉 Click Here to Open Live Demo: duolingo-web.vercel.app 👈](https://duolingo-web.vercel.app)**
+
+[![Live Demo](https://img.shields.io/badge/Live_App-duolingo--web.vercel.app-58CC02?style=for-the-badge&logo=vercel&logoColor=white)](https://duolingo-web.vercel.app)
+[![API Docs](https://img.shields.io/badge/API_Docs-Swagger_OpenAPI-1CB0F6?style=for-the-badge&logo=fastapi&logoColor=white)](https://duolingo-web-api.vercel.app/docs)
+
 <br/>
 
 <!-- ANIMATED DEMO SHOWCASE -->
@@ -20,7 +27,7 @@
   <img src="assets/demo-preview.gif" alt="Duolingo Clone Animated Walkthrough" width="90%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
 </p>
 
-🎬 **[Watch Full High-Definition Demo Video (MP4)](assets/demo.mp4)**
+🎬 **[Watch Full High-Definition Demo Video (MP4)](assets/demo.mp4)** • 🌐 **[Launch App in Browser](https://duolingo-web.vercel.app)**
 
 </div>
 
